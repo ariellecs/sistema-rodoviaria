@@ -112,15 +112,3 @@ public class Controlador {
    }
    
 }
-
-/*Exercício 1
-Fazer um sistema para controlar a venda de passagens de uma empresa de viagens. 
-O sistema deve controlar a frota de ônibus, as rotas que a empresa faz e as viagens.
-Cada ônibus possui placa, número de lugares, sua classe (econômica, executiva ou luxo) e o custo de seu uso. 
-Uma rota tem origem, destino, duração (horas e minutos) e o custo da rota.
-Cada Viagem tem um ônibus, uma rota, a data de inicio da viagem (dia, mês, ano, hora e minuto) e os lugares ocupados.
-O preço da viagem é dado pela soma do custo do ônibus e o custo da rota. O sistema deve permitir: 
-- Cadastrar um ônibus,	 
-- Cadastrar uma rota, 
-- Cadastrar uma viagem, 
-- vender passagem */
